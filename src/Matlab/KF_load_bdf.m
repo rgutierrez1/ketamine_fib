@@ -4,6 +4,10 @@ biosig_installer
 cd(currdir)
 
 %%
+addpath(genpath('~/Codes/ketamine_fib'))
+cd('~/Codes/ketamine_fib/EEG_data')
+cd('/Users/rodrigo_macmini/Codes/ketamine_fib/EEG_data')
+%%
 cd('/Volumes/GoogleDrive/.shortcut-targets-by-id/1xkcKoN4TgmhdIhr2a0ugn-1KoLpAz_vf/KETAMINA_FIBROMIALGIA_OAIC1168-20/REGISTRO_PACIENTES/SK_001/SESIÓN 1')
 
 %%
